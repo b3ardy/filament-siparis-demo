@@ -1,0 +1,38 @@
+{
+  "PLA-175-SIY-1KG": {
+    "stok": 20,
+    "raf": "A-03-2"
+  },
+  "PLA-175-BEY-1KG": {
+    "stok": 15,
+    "raf": "A-03-3"
+  },
+  "PLA-175-KIR-1KG": {
+    "stok": 2,
+    "raf": "A-04-1"
+  },
+  "PETG-175-SIY-1KG": {
+    "stok": 12,
+    "raf": "B-01-1"
+  },
+  "PETG-175-MAV-1KG": {
+    "stok": 0,
+    "raf": "B-01-2"
+  },
+  "ABS-175-SIY-1KG": {
+    "stok": 8,
+    "raf": "C-02-1"
+  },
+  "ABS-175-GRI-1KG": {
+    "stok": 3,
+    "raf": "C-02-2"
+  },
+  "TPU-175-KIR-1KG": {
+    "stok": 1,
+    "raf": "D-01-1"
+  },
+  "TPU-175-SIY-1KG": {
+    "stok": 6,
+    "raf": "D-01-2"
+  }
+}
